@@ -1,4 +1,4 @@
-#Импорт
+#Импорт.
 from flask import Flask, render_template,request, redirect
 #Подключение библиотеки баз данных
 from flask_sqlalchemy import SQLAlchemy
